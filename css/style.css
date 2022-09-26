@@ -60,6 +60,10 @@ font-family: 'Open Sans', sans-serif;
     border-radius: 15px;
 }
 
+#tekst {
+    padding: 100px 0;
+}
+
 #elf {
     width: 15em;
     height: auto;
@@ -87,17 +91,19 @@ font-family: 'Open Sans', sans-serif;
 #kamer {
     width: auto;
     height: 20em;
+    margin-top: 10em;
 }
 
 #model {
     width: auto;
     height: 30em;
-
+    margin-top: 8em;
 }
 
 #proto {
     width: auto;
     height: 15em;
+    margin-top: 2em;
 }
 
 #perin {
